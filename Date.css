@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    color: darkred;
+    background-color: pink;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+button {
+    background-color: white;
+    border: 2px solid darkred;
+    border-radius: 10px;
+    color: darkred;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+button:hover {
+    background-color: darkred;
+    color: white;
+}
+h1 {
+    text-shadow: 4px 4px 8px #000000;
+}
+input, select {
+    padding: 5px;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 2px;
+}
